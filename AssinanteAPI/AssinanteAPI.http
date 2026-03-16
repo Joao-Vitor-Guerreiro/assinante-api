@@ -1,0 +1,6 @@
+@AssinanteAPI_HostAddress = http://localhost:5244
+
+GET {{AssinanteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

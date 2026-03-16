@@ -1,0 +1,34 @@
+# Binários
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Visual Studio
+.vs/
+*.vssettings
+
+# Logs
+logs/
+*.log
+
+# Banco de dados
+*.mdf
+*.ldf
+*.db
+
+# Configurações sensíveis
+appsettings.Local.json
+appsettings.Production.json
+
+# Node.js (se tiver frontend)
+node_modules/
+npm-debug.log*
+
+# Testes
+TestResults/
+*.trx
+*.coverage
